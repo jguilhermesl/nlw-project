@@ -1,6 +1,9 @@
 # Ferramenta de Feedback
 
-<img src="./public/images/82A8701A-AC27-4852-9E5C-7757738665E2.jpeg" />
+<img src="./src/images/feedback.png" />
+<img src="./src/images/ideia.png" />
+<img src="./src/images/image.png" />
+
 Link da aplicação: <a target="_blank" href="https://jgsl-cms.netlify.app/">https://jgsl-nlw.netlify.app/
 </a>
 
